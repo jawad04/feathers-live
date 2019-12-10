@@ -1,0 +1,26 @@
+{
+  "name": "feathers-live",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jawad04/feathers-live.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jawad04/feathers-live/issues"
+  },
+  "homepage": "https://github.com/jawad04/feathers-live#readme",
+  "dependencies": {
+    "@feathersjs/express": "^4.4.3",
+    "@feathersjs/feathers": "^4.4.3",
+    "@feathersjs/socketio": "^4.4.3",
+    "moment": "^2.24.0"
+  }
+}
